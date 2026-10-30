@@ -1,7 +1,7 @@
 # Hi, I'm Sonia 👋
 
 <p align="center">
-  <img src="assets/banner-v3.png" alt="A piano keyboard under a line of musical notes" width="100%">
+  <img src="assets/banner-v3.png" alt="A piano keyboard under a line of musical notes" width="100%" alt="Illustration of a desk with a monitor showing code and a kitten mug on the left, and a piano on the right, with musical notes turning into code symbols between them">
 </p>
 
 **Senior Frontend Engineer | Team Lead** · Barcelona, Spain
